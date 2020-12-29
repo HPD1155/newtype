@@ -4,4 +4,4 @@
 # version
 - v0.01 web version only
 # website
-https://hpd1155.github.io/newtype-programming-website/
+https://hpd1155.github.io/newtype/
