@@ -6,7 +6,7 @@
 # website
 https://hpd1155.github.io/newtype/
 # Install for linux
-```cd opt```
-```git clone https://github.com/HPD1155/newtype/```
-```cd newtype```
-```ls```
+- ```cd opt```
+- ```git clone https://github.com/HPD1155/newtype/```
+- ```cd newtype```
+- ```ls```
