@@ -1,1 +1,1 @@
-console.log("check");
+console.warn("check");
