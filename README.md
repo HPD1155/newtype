@@ -23,3 +23,5 @@ https://hpd1155.github.io/newtype/
 ```js
 Console.log("Haaa, u thought it would be fun!")
 ```
+# Coding fact of the week
+```Did you know you don't need semicollins in javascript!```
