@@ -25,3 +25,6 @@ Console.log("Haaa, u thought it would be fun!")
 ```
 # Coding fact of the week
 ```Did you know you don't need semicolins in javascript!```
+# Join the discussions
+- https://discord.gg/htTWuZxmnM
+- https://scratch.mit.edu/discuss/topic/467482
