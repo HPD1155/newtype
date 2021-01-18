@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <style type="text/css">
+        body {
+          background-color: DeepSkyBlue;
+        }
+        .mainHead {
+          font-family: comic sans;
+          color: #0018ff;
+        }
+        .OwO ul li button a b b{
+          font-family: fantasy;
+          color: #414301;
+        }
+        .OwO ul li button a b b:hover{
+          font-family: fantasy;
+          color: #2b2c00;
+        }
+        .OwO ul li button {
+          background-color: #848702;
+          border-color: #a8ab2a;
+        }
+        #ar {
+          font-family: Garamond;
+          color: maroon;
+        }
+    </style>
+    <title>NewType</title>
+  </head>
+  <body>
+      <script src="index.js"></script>
+      <h2 class="mainHead"><u>Welcome to the NewType website!</u></h1>
+      <p1 id="ar"><b><b><u>Area's you can go.</u></b></b></p1>
+      <div class="OwO">
+        <ul>
+            <li><button><a href="index.html"><b><b>Home</b></b></a></button></li>
+            <li><button><a href="index2.html"><b><b>Home2</b></b></a></button></li>
+            <li><button><a href="didpl.html"><b><b>D-I-D-P-L</b></b></a></button></li>
+            <li><button><a href="ver.html"><b><b>Versions</b></b></a></button></li>
+            <li><button><a href="index.html"><b><b>About</b></b></a></button></li>
+        </ul>
+      </div>
+      <h1><b><u>THIS WEBSITE IS UNDERGOING HEAVY DEVELOPMENT.</u></b></h1>
+  </body>
+</html>
