@@ -24,7 +24,7 @@ https://hpd1155.github.io/newtype/
 Console.log("Haaa, u thought it would be fun!")
 ```
 # Coding fact of the week
-```Did you know you don't need semicolins in javascript!```
+```Microsoft owns F# with F# Software Foundation.```
 # Join the discussions
 - https://discord.gg/htTWuZxmnM
 - https://scratch.mit.edu/discuss/topic/467482
