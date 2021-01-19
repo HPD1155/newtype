@@ -21,7 +21,7 @@ https://hpd1155.github.io/newtype/
 - ```ls```
 # some fun JS
 ```js
-Console.log("Haaa, u thought it would be fun!")
+console.log("Haaa, u thought it would be fun!")
 ```
 # Coding fact of the week
 ```Microsoft owns F# with F# Software Foundation.```
