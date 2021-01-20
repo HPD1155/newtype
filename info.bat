@@ -10,4 +10,4 @@ echo ---------------------------------------------------------------------------
 echo                              more downloads!
 echo - WebCK computer checker in js for html or other
 echo -------------------------------------------------------
-echo Linux and Mac version
+echo Windows version
