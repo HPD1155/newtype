@@ -1,0 +1,52 @@
+# to any one reading this its 2030 the robot have taken over this is are only way to fight if you are seeing this you are one of the last one's on earth 
+
+User-agent: Googlebot
+Disallow: 
+User-agent: googlebot-image
+Disallow: /
+User-agent: googlebot-mobile
+Disallow: 
+User-agent: MSNBot
+Disallow: 
+User-agent: Slurp
+Disallow: 
+User-agent: Teoma
+Disallow: /
+User-agent: Gigabot
+Disallow: /
+User-agent: Robozilla
+Disallow: /
+User-agent: Nutch
+Disallow: /
+User-agent: ia_archiver
+Disallow: /
+User-agent: baiduspider
+Disallow: /
+User-agent: naverbot
+Disallow: /
+User-agent: yeti
+Disallow: /
+User-agent: yahoo-mmcrawler
+Disallow: /
+User-agent: psbot
+Disallow: /
+User-agent: yahoo-blogs/v3.9
+Disallow: /
+User-agent: *
+Disallow: 
+Crawl-delay: 10
+
+
+Disallow: /css_files/pro.css
+Disallow: /css_files/style.css
+Disallow: /img_assets/blox.png
+Disallow: /img_assets/cursor
+Disallow: /loading_files/find_body.js
+Disallow: /scripts/3Dstuff.js
+Disallow: /scripts/global_script.js
+Disallow: /scripts/script_main.js
+Disallow: /api_key.json
+
+
+#end of robot.txt
+
