@@ -11,4 +11,6 @@ echo                             download more Products!
 echo go to folder more downloads and cd into there
 echo - WebCK computer checker in js for html or other
 echo -------------------------------------------------------
-echo Linux and Mac version
+echo Want to monitor our changes, go to: https://hpd1155.github.io/newtype/ntlog.log
+echo --------------------------------------------------------
+echo Linux and Mac version info log
