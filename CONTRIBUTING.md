@@ -1,0 +1,1 @@
+Anyone is allowed to contribute as long as it is legal and respectful. Do not mess up the website or anything like that or you will be reported on github and would be banned from contributing on this site 
