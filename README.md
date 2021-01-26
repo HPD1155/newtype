@@ -19,6 +19,8 @@ https://hpd1155.github.io/newtype/
 - ```git clone https://github.com/HPD1155/newtype/```
 - ```cd newtype```
 - ```ls```
+# Security stats
+- ![CodeQL](https://github.com/HPD1155/newtype/workflows/CodeQL/badge.svg)
 # some fun JS
 ```js
 console.log("Haaa, u thought it would be fun!")
