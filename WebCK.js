@@ -21,3 +21,32 @@ function check(rend, crash)
     console.error("You don't have a good enough graphics card and/or cpu for the website!")
   }
 }
+function crash(message)
+{
+  var yn = prompt(message, " y/n")
+  if (yn == "y")
+  {
+    while(true)
+    {
+      console.log("crash")
+    }else
+    {
+      alert("Crash De-initiated!")
+    }
+  }
+}
+class broadcast
+{
+  class write
+  {
+    function error()
+    {
+      document.write("An unexpected error occured! Please reload your page...If that fails then close the tab and reopen it or close your browser")
+    }
+  }
+  function error()
+  {
+    alert("An unexpected error occured! Please reload your page...If that fails then close the tab and reopen it or close your browser")
+    document.write("")
+  }
+}
