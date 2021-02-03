@@ -1,7 +1,7 @@
 function BnR()
 {
   var edtr = document.getElementById("editor").value
-  var cnsle = document.getElementById("cnsle").value
+ 
   
   if(edtr.includes("test/"))
   {
@@ -22,5 +22,9 @@ function BnR()
   if(edtr.includes("test.phrase.toLowercase []/"))
   {
     alert("Hello".toLowerCase())
+  }
+  if(edtr.includes("warp/"))
+  {
+    alert("=> [Function: warp]")
   }
 }
