@@ -20,3 +20,7 @@ if(render_check == rend)
   alert("You don't have a good enough graphics card and/or cpu for the website!")
   console.error("You don't have a good enough graphics card and/or cpu for the website!")
 }
+function closer()
+{
+  window.close()
+}
