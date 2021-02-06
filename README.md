@@ -28,5 +28,4 @@ console.log("Haaa, u thought it would be fun!")
 # Coding fact of the week
 ```Microsoft owns F# with F# Software Foundation.```
 # Join the discussions
-- https://discord.gg/htTWuZxmnM
 - https://scratch.mit.edu/discuss/topic/467482
