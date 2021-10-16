@@ -1,9 +1,9 @@
-# about
+# About
 - was created and started in scratch
 - it is a CUI(char user interface) version of the programming language, scratch.
-# version
+# Version
 - v0.01-beta web version only
-# website
+# Website
 https://hpd1155.github.io/newtype/
 # Fork for linux
 - ```cd opt```
